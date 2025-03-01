@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nathanaël Soulage"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

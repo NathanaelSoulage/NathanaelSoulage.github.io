@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hello, my name is Nathanaël Soulage, I am currently a Master’s student in Economics at Sciences Po Paris.\nFeel free to reach out at my email adress : nathanael.soulage (at) sciencespo.fr"
+  },
+  {
+    "objectID": "index.html#a-subtitle",
+    "href": "index.html#a-subtitle",
+    "title": "Home",
+    "section": "A Subtitle",
+    "text": "A Subtitle\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nA subsubtitle\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Welcome to my projects webpage. You will find here a list of ongoing or past projects I worked on."
+  }
+]
