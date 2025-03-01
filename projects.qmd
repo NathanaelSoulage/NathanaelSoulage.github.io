@@ -2,4 +2,7 @@
 title: "Projects"
 --- 
 
-Welcome to my projects webpage. You will find here a list of ongoing or past projects I worked on. 
+Welcome to my projects page. You will find here a list of ongoing or past projects I worked on :
+
+Microeconomics group project, Game Theory : Modelling class attendance as a game of strategic
+interactions between students (Micro_Group_Project (2).pdf)
