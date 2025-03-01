@@ -4,7 +4,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to my projects page. You will find here a list of ongoing or past projects I worked on :\nMicroeconomics group project, Game Theory : Modelling class attendance as a game of strategic interactions between students (Micro_Group_Project (2).pdf)"
+    "text": "Welcome to my projects page. You will find here a list of ongoing or past projects I worked on :\nMicroeconomics group project, Game Theory : Modelling class attendance as a game of strategic interactions between students (Micro_Group_Project.pdf)"
+  },
+  {
+    "objectID": "example.html",
+    "href": "example.html",
+    "title": "Title",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "objectID": "example.html#a-subtitle",
+    "href": "example.html#a-subtitle",
+    "title": "Title",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
   {
     "objectID": "about.html",
@@ -19,12 +33,5 @@
     "title": "Home",
     "section": "",
     "text": "Hello, my name is Nathanaël Soulage, I am currently a Master’s student in Economics at Sciences Po Paris.\nFeel free to reach out at my email adress : nathanael.soulage (at) sciencespo.fr"
-  },
-  {
-    "objectID": "index.html#a-subtitle",
-    "href": "index.html#a-subtitle",
-    "title": "Home",
-    "section": "A Subtitle",
-    "text": "A Subtitle\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nA subsubtitle\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   }
 ]
