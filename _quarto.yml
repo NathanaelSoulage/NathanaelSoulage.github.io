@@ -10,7 +10,6 @@ website:
         text: Home
       - projects.qmd
       - contact.qmd
-      - esther.qmd
 
 format:
   html:
