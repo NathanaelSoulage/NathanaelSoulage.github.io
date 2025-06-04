@@ -2,7 +2,7 @@
 title: "Projects"
 --- 
 
-Welcome to my projects page. You will find here a list of ongoing or past projects I worked on :
+Welcome to my projects page. You will find here a list of projects I worked on during my Master's degree:
 
 - [Replication of *Wage stagnation and the decline of standardized pay rates* (Massenkoff & Wilmers, 2023)](Replication_Massenkoff_and_Wilmers_2023.qmd) : For my Labor Economics class (taught by Prof. Pierre Cahuc), I chose to replicate, conducting robustness checks and producing extension, this paper on the drivers of blue-collar wage stagnation in the 1970s-1990s in the US. 
 
