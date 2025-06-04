@@ -8,3 +8,5 @@ You can find our work for the first round and the final :
 
 - [Case A (first round)](Case_A.pdf)
 - [Case B (final)](Case_B.pdf)
+
+This has received some coverage by Sciences Po ([here](https://www.sciencespo.fr/en/news/2025-econometric-game-sciences-po-master-in-economics-students-have-talent/) or [there](https://www.linkedin.com/posts/sciences-po_nos-%C3%A9tudiants-du-master-d%C3%A9conomie-brillent-activity-7328013534506676225-STzQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADX1Th0Bf5jg1aaRmnMQL8QYjW4aimfPLjw))
