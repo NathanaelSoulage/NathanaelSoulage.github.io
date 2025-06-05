@@ -6,7 +6,7 @@ website:
   title: "Nathanaël Soulage"
   navbar:
     title: "Nathanaël Soulage"
-    background: '#BEDDBA'
+    background: '#FED16A'
     search: true
     left:
       - href: index.qmd
