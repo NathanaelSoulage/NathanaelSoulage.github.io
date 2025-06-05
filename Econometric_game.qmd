@@ -2,7 +2,7 @@
 title : "The Econometric Game 2025"
 ---
 
-Along with Jean Fontalirand, I represented Sciences Po at the 2025 World Econometric Championship, in Amsterdam. This year, we were asked to predict the probability (first round) and the intensity (final) of congestion in the German electricity grid. Using machine learning techniques in addition to standard econometric tools, we analysed the determinants of congestion and predicted it on a day-ahead basis. To learn more about the Game, have a look at their [website]().
+Along with Jean Fontalirand, I represented Sciences Po at the 2025 World Econometric Championship, in Amsterdam. This year, we were asked to predict the probability (first round) and the intensity (final) of congestion in the German electricity grid. Using machine learning techniques in addition to standard econometric tools, we analysed the determinants of congestion and predicted it on a day-ahead basis. To learn more about the Game, have a look at their [website](https://wceconometrics.com/).
 
 You can find our work for the first round and the final :
 
