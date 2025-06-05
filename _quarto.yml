@@ -5,6 +5,9 @@ project:
 website:
   title: "Nathanaël Soulage"
   navbar:
+    title: "Nathanaël Soulage"
+    background: '#BEDDBA'
+    search: true
     left:
       - href: index.qmd
         text: Home
