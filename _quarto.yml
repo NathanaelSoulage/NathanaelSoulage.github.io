@@ -12,6 +12,7 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - masthesis.qmd
       - contact.qmd
 
 format:

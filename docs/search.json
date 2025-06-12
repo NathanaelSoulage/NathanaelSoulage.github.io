@@ -7,32 +7,11 @@
     "text": "For my Labor Economics class (taught by Prof. Pierre Cahuc), I chose to replicate, conducting robustness checks and producing extension, this paper on the drivers of blue-collar wage stagnation in the 1970s-1990s in the US.\nI found that, in line with the authors’ findings, the decline of standardized pay rates in the late 1970s and 1980s contributed significantly to wage stagnation, a finding that is robust to the tests that I performed. Moreover, I refined their analysis by showing that the wage decline has primarily (and almost fully) been driven by firms moving away from fully standardized pay structures, with no within-job pay variation, rather than from tenure-based pay. Additionally, I found that bonuses, when used in a firm, primarily benefit white-collar workers, while the effects of piece-rate pay, though apparently significant, are harder to generalize due to limited presence in the data.\n\nYou can find the original paper, its appendix, and its replication package at this link.\nMy replication study is available here"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nathanaël Soulage",
+    "objectID": "masthesis.html",
+    "href": "masthesis.html",
+    "title": "Master’s thesis",
     "section": "",
-    "text": "Hello, my name is Nathanaël Soulage, I am currently a student enrolled in the Research Master’s in Economics at Sciences Po Paris. I am willing to pursue research in Economics, therefore this website is designed to present and share my work, projects and skills.\nI hold a Bachelor’s degree in Political and Social Sciences from Sciences Po Paris, with a major in Economics. I am now in my second year of Research Master’s degree in Economics, graduating in June 2025. For more details you can find my resume here.\nMany thanks to the amazing Paulo Gugelmo Cavalheiro Dias, who created a wonderful tutorial to create your own Research Portfolio"
-  },
-  {
-    "objectID": "Econometric_game.html",
-    "href": "Econometric_game.html",
-    "title": "The Econometric Game 2025",
-    "section": "",
-    "text": "Along with Jean Fontalirand, I represented Sciences Po at the 2025 World Econometric Championship, in Amsterdam. This year, we were asked to predict the probability (first round) and the intensity (final) of congestion in the German electricity grid. Using machine learning techniques in addition to standard econometric tools, we analysed the determinants of congestion and predicted it on a day-ahead basis. To learn more about the Game, have a look at their website.\nYou can find our work for the first round and the final :\n\nCase A (first round)\nCase B (final)\n\nThis has received some coverage by Sciences Po (here or there)"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Feel free to reach out at my email adress : nathanael.soulage (at) sciencespo.fr"
+    "text": "This page is dedicated to my Master’s thesis, written during the Spring 2025 semester, under the supervision of Prof. Antoine Ferey (Sciences Po). Its title: “How to tax housing? Property versus rental taxation”.\nIn this essay I look at the differential welfare impact of two types of housing taxes: property and rental income taxation. You can find the pdf here"
   },
   {
     "objectID": "example.html",
@@ -47,6 +26,34 @@
     "title": "Title",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out at my email adress : nathanael.soulage (at) sciencespo.fr"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Econometric_game.html",
+    "href": "Econometric_game.html",
+    "title": "The Econometric Game 2025",
+    "section": "",
+    "text": "Along with Jean Fontalirand, I represented Sciences Po at the 2025 World Econometric Championship, in Amsterdam. This year, we were asked to predict the probability (first round) and the intensity (final) of congestion in the German electricity grid. Using machine learning techniques in addition to standard econometric tools, we analysed the determinants of congestion and predicted it on a day-ahead basis. To learn more about the Game, have a look at their website.\nYou can find our work for the first round and the final :\n\nCase A (first round)\nCase B (final)\n\nThis has received some coverage by Sciences Po (here or there)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nathanaël Soulage",
+    "section": "",
+    "text": "Hello, my name is Nathanaël Soulage, I am currently a student enrolled in the Research Master’s in Economics at Sciences Po Paris. I am willing to pursue research in Economics, therefore this website is designed to present and share my work, projects and skills.\nI hold a Bachelor’s degree in Political and Social Sciences from Sciences Po Paris, with a major in Economics. I am now in my second year of Research Master’s degree in Economics, graduating in June 2025. For more details you can find my resume here.\nMany thanks to the amazing Paulo Gugelmo Cavalheiro Dias, who created a wonderful tutorial to create your own Research Portfolio"
   },
   {
     "objectID": "projects.html",
