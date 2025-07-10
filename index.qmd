@@ -13,8 +13,8 @@ about:
       href: https://www.linkedin.com/in/nathana%C3%ABl-soulage-47920a213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoSO6Y6gnTuSABW4B0DkdQg%3D%3D
 ---
 
-Hello, my name is Nathanaël Soulage, I am currently a student enrolled in the Research Master's in Economics at Sciences Po Paris. I am willing to pursue research in Economics, therefore this website is designed to present and share my work, projects and skills. 
+Hello, my name is Nathanaël Soulage, I am currently working as a predoc for Prof. Stefanie Stantcheva (Harvard University). My main areas of interest span Public, Labor and Macro-Economics, with complemntary interest in Trade and Environmental. Willing to pursue research in Economics, this website is designed to present and share my work, projects and skills. 
 
-I hold a Bachelor's degree in Political and Social Sciences from Sciences Po Paris, with a major in Economics. I am now in my second year of Research Master's degree in Economics, graduating in June 2025. For more details you can find my resume [here](Nathanael_Soulage_resume.pdf). 
+I hold a Bachelor's degree in Political and Social Sciences from Sciences Po Paris, with a major in Economics. I then completed a Research Master's degree in Economics, at Sciences Po, graduating in June 2025. For more details you can find my resume [here](Nathanael_Soulage_resume.pdf). 
 
 Many thanks to the amazing Paulo Gugelmo Cavalheiro Dias, who created a wonderful tutorial to create your own [Research Portfolio](https://www.paulogcd.com/portfolio_tutorial/)
