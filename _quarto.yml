@@ -12,7 +12,8 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
-      - masthesis.qmd
+      - text : "Master's Thesis" 
+        file : masthesis.qmd
       - contact.qmd
 
 format:
