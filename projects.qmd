@@ -20,3 +20,5 @@ interactions between students*](Micro_Group_Project.pdf) : In our Microeconomics
 ### Other projects
 
 - [The Econometric Game 2025](Econometric_game.qmd) : I represented Sciences Po at the 2025 World Econometric Championship, where we reached the final ! Find out more [here](Econometric_game.qmd)
+
+- [Extension of Cavallo et al.(2023) to heterogeneous exposures to energy price shocks](Cavallo_et_al_extension.pdf) : In the Summer 2024, as a research assistant for Isabelle Méjean, I built on and extended [Cavallo et al. (2024)](https://www.aeaweb.org/articles?id=10.1257/aeri.20230454) sticky price model. In the context of a work on post-Covid inflation and its link with energy price shocks, this extension allowed us to introduce heterogeneity in exposure to such shocks, and therefore idiosyncraticity in firm's responses. 
