@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Master's Projects"
 --- 
 
 Welcome to my projects page. You will find here a list of projects I worked on during my Master's degree:

@@ -11,9 +11,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - research.qmd
       - text : "Master's Thesis" 
         file : masthesis.qmd
+      - projects.qmd
       - contact.qmd
 
 format:
