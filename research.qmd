@@ -4,7 +4,7 @@ title : "Research"
 
 #### Work in progress 
 
-- Design and (non-standard) incidence of property taxation.
+- Design and incidence of property taxation, a sufficient statistics approach.
 
 - _More projects coming soon_...
 
