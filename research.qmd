@@ -8,6 +8,7 @@ title : "Research"
 
 - _More projects coming soon_...
 
+
 #### Other projects 
 
 - [The Econometric Game 2025](Econometric_game.qmd) : I represented Sciences Po at the 2025 World Econometric Championship, where we reached the final ! Find out more [here](Econometric_game.qmd)
