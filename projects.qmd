@@ -1,19 +1,89 @@
 ---
 title: "Master's Projects"
---- 
+toc: false
+---
 
-Welcome to my projects page. You will find here a list of projects I worked on during my Master's degree:
+Projects I worked on during my Research Master's in Economics at Sciences Po.
 
-- [Replication of *Wage stagnation and the decline of standardized pay rates* (Massenkoff & Wilmers, 2023)](Replication_Massenkoff_and_Wilmers_2023.qmd) : For my Labor Economics class (taught by Prof. Pierre Cahuc), I chose to replicate, conducting robustness checks and producing extension, this paper on the drivers of blue-collar wage stagnation in the 1970s-1990s in the US. 
+## Papers {.research-section}
 
-- [Presentation of *Distributional Tax Analysis in Theory and Practice: Harberger Meets Diamond-Mirrlees* (Saez and Zucman, 2024)](Presentation_Saez_Zucman_2024.pdf), with Alexandra Anghel : In Public Economics class (taught by Prof. Stefan Pollinger) we made a one-hour presentation of this very recent article by Emmanuel Saez and Gabriel Zucman. The authors present issues associated with usual distributional tax analysis and propose a brand new framework, to analyse current-tax and tax reform distributional implications. The original paper can be found [here](https://eml.berkeley.edu/~saez//saez-zucmanNBER24incidence.pdf)
+::: {.paper}
+[[Replication of *Wage Stagnation and the Decline of Standardized Pay Rates* (Massenkoff & Wilmers, 2023)](Replication_Massenkoff_and_Wilmers_2023.qmd)]{.paper-title}
 
-- [Macroeconomics short presentation of “The Wealth Inequality of Nations” (Pfeffer and Waitkus, 2021)](Pres_Macro.pdf), with Jean Fontalirand : We presented two key insights from this empirical paper, which displays an absence of correlation between income and wealth inequality and concentration at the national level, between developed countries, in the data. 
+[Labor Economics, taught by Pierre Cahuc]{.paper-meta}
 
-- [Microeconomics group project, Game Theory : *Modelling class attendance as a game of strategic
-interactions between students*](Micro_Group_Project.pdf) : In our Microeconomics 2 class (taught by Prof. Emeric Henry, Sciences Po Paris), we wrote a game theory paper aimed at exploring and explaining the determinants of class attendance, as a game of strategic interactions between the students. In a last extension, we introduced a teacher, as a special player, using student's strategies to set up her own. 
+::: {.paper-links}
+[PDF](Labor_replication.pdf){.paper-btn}
+[Original paper](https://www.aeaweb.org/articles?id=10.1257/app.20200819){.paper-btn}
+[More](Replication_Massenkoff_and_Wilmers_2023.qmd){.paper-btn}
+:::
 
-- [Macroeconomics Presentation of *New Keynesain models: not yet useful for policy analysis* (V.V. Chari, Patrick J. Kehoe, and Ellen R. McGrattan, 2019)](Presentation_Chari_et_al.pdf), with Alexandra Anghel : In Macroeconomics 2 class (taught by Jean Barthelemy, Banque de France), we presented this paper, which proposed critiques and limits of New Keynesian models and their use and interpretability. The original paper can be found [here](https://www.aeaweb.org/articles?id=10.1257/mac.1.1.242)
+<details>
+<summary>Summary</summary>
+I replicate this paper on the drivers of blue-collar wage stagnation in the US in the 1970s–1990s, conducting robustness checks and extensions. In line with the authors, I find that the decline of standardized pay rates contributed significantly to wage stagnation. I further show that the decline was driven almost entirely by firms moving away from fully standardized pay structures, rather than from tenure-based pay.
+</details>
+:::
 
+::: {.paper}
+[[Modelling Class Attendance as a Game of Strategic Interactions between Students](Micro_Group_Project.pdf)]{.paper-title}
 
+[Group project · Microeconomics 2, taught by Emeric Henry]{.paper-meta}
 
+::: {.paper-links}
+[PDF](Micro_Group_Project.pdf){.paper-btn}
+:::
+
+<details>
+<summary>Summary</summary>
+A game theory paper exploring the determinants of class attendance as a game of strategic interactions between students. In a final extension, we introduce a teacher as a special player, who uses students' strategies to set her own.
+</details>
+:::
+
+## Presentations {.research-section}
+
+::: {.paper}
+[[*Distributional Tax Analysis in Theory and Practice: Harberger Meets Diamond-Mirrlees* (Saez & Zucman, 2024)](Presentation_Saez_Zucman_2024.pdf)]{.paper-title}
+
+[with Alexandra Anghel · Public Economics, taught by Stefan Pollinger]{.paper-meta}
+
+::: {.paper-links}
+[Slides](Presentation_Saez_Zucman_2024.pdf){.paper-btn}
+[Original paper](https://eml.berkeley.edu/~saez//saez-zucmanNBER24incidence.pdf){.paper-btn}
+:::
+
+<details>
+<summary>Summary</summary>
+A one-hour presentation of this recent article, in which the authors discuss the issues with standard distributional tax analysis and propose a new framework to analyse the distributional implications of current taxes and tax reforms.
+</details>
+:::
+
+::: {.paper}
+[[*New Keynesian Models: Not Yet Useful for Policy Analysis* (Chari, Kehoe & McGrattan, 2009)](Presentation_Chari_et_al.pdf)]{.paper-title}
+
+[with Alexandra Anghel · Macroeconomics 2, taught by Jean Barthélemy (Banque de France)]{.paper-meta}
+
+::: {.paper-links}
+[Slides](Presentation_Chari_et_al.pdf){.paper-btn}
+[Original paper](https://www.aeaweb.org/articles?id=10.1257/mac.1.1.242){.paper-btn}
+:::
+
+<details>
+<summary>Summary</summary>
+We presented this paper's critiques of New Keynesian models, and the limits to their use and interpretability for policy analysis.
+</details>
+:::
+
+::: {.paper}
+[[*The Wealth Inequality of Nations* (Pfeffer & Waitkus, 2021)](Pres_Macro.pdf)]{.paper-title}
+
+[with Jean Fontalirand · Macroeconomics, short presentation]{.paper-meta}
+
+::: {.paper-links}
+[Slides](Pres_Macro.pdf){.paper-btn}
+:::
+
+<details>
+<summary>Summary</summary>
+We presented two key insights from this empirical paper, which shows that, across developed countries, income inequality and wealth inequality are not correlated at the national level.
+</details>
+:::

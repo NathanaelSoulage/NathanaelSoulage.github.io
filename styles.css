@@ -1,1 +1,107 @@
 /* css styles */
+
+/* ---- Research page ---- */
+
+h2.research-section {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #e3d9ca;
+}
+
+.paper {
+  margin: 1.5rem 0 1.75rem;
+}
+
+.paper-title {
+  display: block;
+  font-size: 1.08rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.paper-title a {
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+}
+
+.paper-title a:hover {
+  color: var(--bs-link-color, #2780e3);
+}
+
+.paper p {
+  margin-bottom: 0.2rem;
+}
+
+.paper-meta {
+  display: block;
+  color: #6c757d;
+  font-size: 0.95rem;
+}
+
+.paper-award {
+  display: inline-block;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #8a6d1d;
+  text-decoration: none;
+}
+
+.paper-award::before {
+  content: "★ ";
+  font-style: normal;
+}
+
+.paper-links {
+  margin-top: 0.45rem;
+}
+
+.paper-links p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.paper-btn {
+  display: inline-block;
+  padding: 0.1rem 0.6rem;
+  font-size: 0.82rem;
+  border: 1px solid #e3d9ca;
+  border-radius: 4px;
+  color: #a35a3f;
+  text-decoration: none;
+  transition: background-color 0.15s, border-color 0.15s;
+}
+
+.paper-btn:hover {
+  background-color: #a35a3f;
+  border-color: #a35a3f;
+  color: #fff;
+}
+
+.paper details {
+  margin-top: 0.45rem;
+  font-size: 0.93rem;
+}
+
+.paper summary {
+  cursor: pointer;
+  color: #6c757d;
+  font-size: 0.85rem;
+  width: fit-content;
+}
+
+.paper summary:hover {
+  color: #212529;
+}
+
+.paper details[open] summary {
+  margin-bottom: 0.35rem;
+}
+
+.paper details[open] {
+  padding-left: 0.85rem;
+  border-left: 3px solid #dcb8a6;
+}

@@ -1,0 +1,76 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap');
+
+$accent: #a35a3f;
+
+$font-family-sans-serif: "Source Sans 3", -apple-system, "Segoe UI", Roboto, sans-serif;
+$headings-font-family: "Source Serif 4", Georgia, serif;
+$headings-font-weight: 600;
+$font-size-root: 17px;
+$line-height-base: 1.65;
+
+$body-bg: #faf7f2;
+$body-color: #222;
+$link-color: $accent;
+$primary: $accent;
+
+$navbar-bg: #efe6d8;
+$navbar-fg: #5a4e3f;
+$navbar-hl: $accent;
+
+$footer-bg: #f2ebe0;
+$footer-fg: #777;
+
+/*-- scss:rules --*/
+
+.navbar {
+  border-bottom: 1px solid #e0d4c0;
+}
+
+.navbar-brand .navbar-title {
+  font-family: $headings-font-family;
+  font-weight: 600;
+  color: #3d3428;
+}
+
+.navbar .nav-link {
+  font-size: 0.95rem;
+}
+
+a {
+  text-underline-offset: 2px;
+}
+
+.quarto-title .title {
+  font-size: 2.1rem;
+}
+
+.nav-footer {
+  border-top: 1px solid #e3d9ca;
+  font-size: 0.85rem;
+}
+
+/* Home page */
+div.quarto-about-trestles .about-entity .about-image {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+div.quarto-about-trestles .about-entity .about-link {
+  border-color: #e3d9ca;
+  color: $accent;
+}
+
+div.quarto-about-trestles .about-entity .about-link:hover {
+  background-color: $accent;
+  border-color: $accent;
+  color: #fff;
+}
+
+.about-subtitle {
+  font-family: $headings-font-family;
+  font-size: 1.15rem;
+  color: #555;
+  margin-bottom: 1.25rem;
+}

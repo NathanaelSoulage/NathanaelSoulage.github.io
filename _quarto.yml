@@ -4,26 +4,25 @@ project:
 
 website:
   title: "Nathanaël Soulage"
+  favicon: favicon.svg
   navbar:
     title: "Nathanaël Soulage"
-    background: '#FED16A'
     search: true
-    left:
+    right:
       - href: index.qmd
         text: Home
       - research.qmd
-      - text : "Master's Thesis" 
-        file : masthesis.qmd
-      - projects.qmd
-      - contact.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: Nathanael_Soulage_resume.pdf
+  page-footer:
+    center: "© 2026 Nathanaël Soulage · Sciences Po"
 
 format:
   html:
     theme:
       - cosmo
-      - brand
+      - theme.scss
     css: styles.css
-    toc: true
-
-
-
+    toc: false

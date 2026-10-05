@@ -1,16 +1,64 @@
 ---
 title : "Research"
+toc: false
 ---
 
-#### Work in progress 
+## Work in Progress {.research-section}
 
-- Rental housing as capital: A sufficient statistics approach to the design and incidence of property taxation.
+::: {.paper}
+[Rental Housing as Capital: A Sufficient Statistics Approach to the Design and Incidence of Property Taxation]{.paper-title}
+:::
 
-- _More projects coming soon_...
+## Master's Thesis {.research-section}
 
+::: {.paper}
+[[How to Tax Housing? Property versus Rental Taxation](masthesis.qmd)]{.paper-title}
 
-#### Other projects 
+[Sciences Po, 2025 · Supervised by Antoine Ferey]{.paper-meta}
 
-- [The Econometric Game 2025](Econometric_game.qmd) : I represented Sciences Po at the 2025 World Econometric Championship, where we reached the final ! Find out more [here](Econometric_game.qmd)
+[Selected as one of the Best Master's Theses 2024–2025](https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/best-thesis/){.paper-award}
 
-- [Extension of Cavallo et al.(2023) to heterogeneous exposures to energy price shocks](Cavallo_et_al_extension.pdf) : In the Summer 2024, as a research assistant for Isabelle Méjean, I built on and extended [Cavallo et al. (2024)](https://www.aeaweb.org/articles?id=10.1257/aeri.20230454) sticky price model. In the context of a work on post-Covid inflation and its link with energy price shocks, this extension allowed us to introduce heterogeneity in exposure to such shocks, and therefore idiosyncraticity in firm's responses. 
+::: {.paper-links}
+[PDF](Mémoire_Soulage_Nathanael.pdf){.paper-btn}
+:::
+
+<details>
+<summary>Abstract</summary>
+I study the differential welfare impact of two forms of housing taxation: property and rental income taxes. I first derive a fully theoretical, static model to characterize the welfare implications of budget-neutral reforms. I then develop a tractable model, that can be numerically simulated, to derive optimal tax rates under different specifications. Crucially, the optimal tax mix depends on the pass-through of the rental tax burden from landlords to their tenants, determining the <em>effective tax incidence</em>.
+</details>
+:::
+
+## Other Work {.research-section}
+
+::: {.paper}
+[[Extending Cavallo et al. (2024) to Heterogeneous Exposures to Energy Price Shocks](Cavallo_et_al_extension.pdf)]{.paper-title}
+
+[Research assistance for Isabelle Méjean, Summer 2024]{.paper-meta}
+
+::: {.paper-links}
+[PDF](Cavallo_et_al_extension.pdf){.paper-btn}
+[Original paper](https://www.aeaweb.org/articles?id=10.1257/aeri.20230454){.paper-btn}
+:::
+
+<details>
+<summary>Summary</summary>
+In the context of work on post-Covid inflation and its link with energy price shocks, I built on and extended the sticky price model of Cavallo et al. (2024). The extension introduces heterogeneity in firms' exposure to energy price shocks, and therefore idiosyncrasy in their pricing responses.
+</details>
+:::
+
+::: {.paper}
+[[The Econometric Game 2025](Econometric_game.qmd)]{.paper-title}
+
+[with Jean Fontalirand · Representing Sciences Po at the World Econometric Championship, Amsterdam · Finalists]{.paper-meta}
+
+::: {.paper-links}
+[Case A (first round)](Case_A.pdf){.paper-btn}
+[Case B (final)](Case_B.pdf){.paper-btn}
+[More](Econometric_game.qmd){.paper-btn}
+:::
+
+<details>
+<summary>Summary</summary>
+We were asked to predict the probability (first round) and the intensity (final) of congestion in the German electricity grid. Combining machine learning techniques with standard econometric tools, we analysed the determinants of congestion and predicted it on a day-ahead basis.
+</details>
+:::
